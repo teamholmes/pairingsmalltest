@@ -1,9 +1,9 @@
 # Unit Tests
-Within the folder ./tests you will see 3 test files.
-Your task is to create function within the ./code folder to make all the tests pass.
+Within the ./test folder you will see 3 test files.
+Your task is to create functions within the ./code folder to make all the tests pass.
 You should look to solve one test at a time.
 You should not take more that 10 minutes per unit test.
-You can validate that your function works by running npm test
+You can validate that your function works by running `npm test`
 
 Please review the tests within the ./test folder to understand the specific outcomes expected.
 
