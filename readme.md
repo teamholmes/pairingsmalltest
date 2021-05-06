@@ -15,9 +15,9 @@ create a function that takes an array and returns the sum of all items in the ar
 
 ### multiplyBy
 
-### create a function that when called with a number, that number becomes the multipler of all subsequent calls.
+reate a function that when called with a number, that number becomes the multipler of all subsequent calls.
 
-heroes
+### heroes
 
 create a function that returns only the bad superheros from the array of provided characters. Heroes are categorised as having a property of isEvil: true and they SHOUT their names alphabetically!
 
